@@ -1,0 +1,6 @@
+num:6
+name:asteroids_job
+alt:Asteroids As A Job
+desc:Sorry, once again, for my lack of activity. I could have drawn asteroids, but it was easier for me to play it at <a href="http://www.freeasteroid.org">freeasteroids.org</a> and screenshot it, then pour the screenshot into Gimp and add stuff, which I guess makes this more like a meme than a comic. Oh well, I've got other work today anyways.
+width:640
+height:480
